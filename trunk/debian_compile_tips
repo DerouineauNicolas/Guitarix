@@ -1,0 +1,1 @@
+sudo apt-get install libjack libjack-dev libjack-dev libjack0 ladspa-sdk gmod libperl-dev libgtk2.0-dev libsndfile1-dev libglib2.0-dev libglibmm-2.4-dev libgtkmm-2.4-dev libfftw3-dev liblrdf0-dev liblilv-dev libboost-system-dev libavahi-gobject-dev libeigen3-dev
